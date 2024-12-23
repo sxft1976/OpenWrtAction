@@ -1,7 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-c1c796f|xiaorouji|Sun Dec 22 18:32:08 2024 +0800|luci: add Sing-Box DNS `client_subnet` option
-d384845|xiaorouji|Sun Dec 22 16:31:55 2024 +0800|luci: fix and compat
-</details>
