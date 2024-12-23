@@ -1,9 +1,0 @@
-<details> <summary> <b>luci new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-779ca14125|Paul Donald|Sun Dec 22 00:36:28 2024 +0000|css: remove unsupported properties
-06461e07b5|Paul Donald|Sun Dec 22 00:13:26 2024 +0000|luci-mod-status: prevent trace-back loading wireless on non-WiFi devices
-41cbd31c90|Paul Donald|Sun Dec 22 00:38:32 2024 +0000|luci-base: prevent trace-back loading wireless on non-WiFi devices
-def988495a|Paul Donald|Sun Dec 22 00:39:36 2024 +0000|luci-base: detect WiFi availability - useful for non-WiFi devices
-</details>
